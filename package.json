@@ -1,0 +1,10 @@
+{
+    "name": "GemStones",
+    "description": "Hacker rank programming problem",
+    "author": "JunaidPaul<jpaul66@uwo.ca>",
+    "dependencies": {
+        "chai": "*",
+        "blanket": "*"
+    }
+
+}
